@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
+## My Skills
+[Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **bharath-temp/bharath-temp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
