@@ -1,9 +1,10 @@
-# Hey my name is B.  <img src="https://emojis.slackmojis.com/emojis/images/1706645181/88446/code-review-intensifies.gif?1706645181" width="50" alt="emoji">
+# Hey my name is B!  <img src="https://emojis.slackmojis.com/emojis/images/1706645181/88446/code-review-intensifies.gif?1706645181" width="50" alt="emoji">
+
+
 
 
 ---
 
-## Skills
 
 | Category | Tools |
 | ----------- | ----------- |
@@ -13,6 +14,10 @@
 | **Data Science** | ![SQLLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![SciKit-Learn Badge](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas Badge](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy Badge](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MlFlow Badge](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) |
 | **Collaboration** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) |
 
+
+---
+
+[![Bharath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bharath-temp&theme=tokyo-night&hide_title=true&hide_border=true)](https://github.com/bharath-temp/github-readme-activity-graph)
 
 ---
 
