@@ -1,10 +1,27 @@
 # Hey my name is B!  <img src="https://emojis.slackmojis.com/emojis/images/1706645181/88446/code-review-intensifies.gif?1706645181" width="50" alt="emoji">
 
-
-
+Learning to become a better developer.
 
 ---
 
+## Projects 
+#### [ChessLite](https://github.com/bharath-temp/ChessLite)
+🚧 **Under Construction**
+ChessLite will be a Full-Stack web application for individuals to play against each other online.
+- [x] Build and document the backend logic.
+	- [x] Use SOLID and design patters
+    - [ ] Run thorough testing of game behaviour.
+- [ ] Build the frontend using Typescript and NextJS.
+- [ ] Build the API using FastAPI to allow server/client communication.
+- [ ] Containerize and deploy frontend and backend using AWS Fargate.
+
+#### [SWOL](https://github.com/bharath-temp/Swol)
+Swol is a workout tracker app built using Kotlin and the Android SDK, designed to help users track their workouts, monitor muscle volume progress, and take progress photos.
+
+#### [PoetrySlam](https://github.com/bharath-temp/PoetrySlam)
+PoetrySlam is a Full-Stack web application where poets can share, explore, and discuss poetry. It's built using Python, FastAPI, Javascript and React.
+
+---
 
 | Category | Tools |
 | ----------- | ----------- |
@@ -25,7 +42,6 @@
 
 
 <!--
-![Python Badge]()
 **bharath-temp/bharath-temp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
