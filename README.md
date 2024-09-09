@@ -11,7 +11,7 @@ ChessLite will be a Full-Stack web application for individuals to play against e
 	- [x] Use SOLID and design patterns
     - [ ] Run thorough testing of game behaviour.
 - [ ] Build the frontend using Typescript and NextJS.
-- [ ] Build the API using FastAPI to allow server/client communication.
+- [x] Build the API using FastAPI to allow server/client communication.
 - [ ] Containerize and deploy frontend and backend using AWS Fargate.
 
 ### [SWOL](https://github.com/bharath-temp/Swol)
